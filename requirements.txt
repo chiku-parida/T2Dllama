@@ -1,0 +1,21 @@
+# Project Name: [T2Dllama]
+
+# Author: [Chiku Parida & Martin H. Peterson]
+
+# Environment:
+   - Conda
+   - Python
+
+# Channels:
+   - conda-forge
+   - defaults
+
+# List of Dependencies:
+pypdf
+python-dotenv
+transformers
+llama-index
+llama-index-embeddings-huggingface
+llama-index-llms-llama-cpp
+torch transformers python-pptx Pillow
+sentence-transformers
